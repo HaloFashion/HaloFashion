@@ -1,0 +1,9 @@
+{
+	"name": "HALO",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33919933-8897-4594-9d54-370615705378",
+		"tenantId": "6be83308-eb85-481b-bbf5-47be80849325"
+	}
+}
